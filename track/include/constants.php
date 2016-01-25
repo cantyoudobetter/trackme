@@ -17,9 +17,9 @@
  * correct.
  */
 define("DB_SERVER", "localhost");
-define("DB_USER", "mbordelon");
-define("DB_PASS", "Tamu1993");
-define("DB_NAME", "mbordelon");
+define("DB_USER", "xxxxxxx");
+define("DB_PASS", "xxxxxxx");
+define("DB_NAME", "xxxxxxxx");
 
 /**
  * Access Database Constants - these constants are required
@@ -27,7 +27,7 @@ define("DB_NAME", "mbordelon");
  * to the Access database. Make sure the information is
  * correct.
  */
-define("ODBC_DSN", "PTIACCESS");
+define("ODBC_DSN", "xxxxx");
 define("ODBC_USER", "");
 define("ODBC_PASS", "");
 
